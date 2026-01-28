@@ -1,0 +1,18 @@
+# Suno
+host-suffix, suno.com, AI
+host-suffix, suno.ai, AI
+
+# Gemini
+host, gemini.google.com, AI
+
+# Anthropic
+host, statsig.anthropic.com, AI
+host, console.anthropic.com, AI
+host-keyword, anthropic, AI
+host-keyword, claude, AI
+host, sentry.io, AI
+
+# OpenAI
+host, openai.com, AI
+host-suffix, openai.com, AI
+host-suffix, chatgpt.com, AI
