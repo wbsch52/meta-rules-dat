@@ -11,4 +11,5 @@ ip-cidr, 192.168.100.0/24, direct
 ip-cidr, 10.10.10.0/24, direct
 ip-cidr, 8.211.15.31/24, direct
 ip-cidr, 8.211.32.33/24, direct
+ip-cidr, 47.87.130.87/24, direct
 ip-cidr, 127.0.0.1/8, direct
